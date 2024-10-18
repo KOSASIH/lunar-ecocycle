@@ -1,3 +1,23 @@
+# Lunar Ecocycle
+
+[![Coverage Status](https://coveralls.io/repos/github/KOSASIH/lunar-ecocycle/badge.svg?branch=main)](https://coveralls.io/github/KOSASIH/lunar-ecocycle?branch=main)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://github.com/KOSASIH/lunar-ecocycle/releases)
+[![DOI](https://zenodo.org/badge/259046250.svg)](https://zenodo.org/badge/latestdoi/259046250)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSulstice%2Fglobal-chem.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSulstice%2Fglobal-chem?ref=badge_shield)
+[![Maturity badge - level 2](https://img.shields.io/badge/Maturity-Level%202%20--%20First%20Release-yellowgreen.svg)](https://github.com/tophat/getting-started/blob/master/scorecard.md)
+[![Downloads](https://pepy.tech/badge/global-chem)](https://pepy.tech/project/global-chem)
+[![Coverage Status](https://coveralls.io/repos/github/Sulstice/global-chem/badge.svg?branch=master)](https://coveralls.io/github/Sulstice/global-chem?branch=master)
+[![Repo Size](https://img.shields.io/github/repo-size/Sulstice/global-chem)](https://github.com/Sulstice/global-chem)
+[![PyPI version](https://badge.fury.io/py/global-chem.svg)](https://badge.fury.io/py/global-chem)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://www.chemicalgraphtheory.com)
+[![Documentation](https://img.shields.io/badge/GitBook-Docu-lightblue)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![Python](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
+
 # lunar-ecocycle
 A comprehensive repository for the Lunar EcoCycle project, featuring advanced algorithms, robotics designs, waste processing technologies, and resource utilization strategies aimed at creating a sustainable waste management system on the Moon. Collaborate on innovative solutions to recycle lunar waste and promote a self-sustaining lunar ecosystem.
 
