@@ -1,0 +1,21 @@
+# Sample configuration file for EcoCycle
+
+eco_cycle:
+  version: "1.0"
+  logging:
+    level: "INFO"
+    file: "eco_cycle.log"
+
+data_collection:
+  interval: 60  # Data collection interval in seconds
+  log_file: "data_collection.log"
+
+predictive_model:
+  model_type: "RandomForest"
+  parameters:
+    n_estimators: 100
+    max_depth: 10
+
+visualization:
+  enabled: true
+  output_directory: "visualizations/"
