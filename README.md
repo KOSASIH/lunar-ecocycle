@@ -17,6 +17,18 @@
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 [![Python](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
+[![NASA Badge]( https://img.shields.io/badge/NASA-Partner-blue.svg)](https://www.nasa.gov/)
+[![ESA Badge](https://img.shields.io/badge/ESA-Partner-blue.svg)](https://www.esa.int/)
+[![SpaceX Badge](https://img.shields.io/badge/SpaceX-Partner-blue.svg)](https://www.spacex.com/)
+[![Blue Origin Badge](https://img.shields.io/badge/Blue%20Origin-Partner-blue.svg)](https://www.blueorigin.com/)
+[![ISRO Badge](https://img.shields.io/badge/ISRO-Partner-blue.svg)](https://www.isro.gov.in/)
+[![CNSA Badge](https://img.shields.io/badge/CNSA-Partner-blue.svg)](https://www.cnsa.gov.cn/)
+[![Roscosmos Badge](https://img.shields.io/badge/Roscosmos-Partner-blue.svg)](https://www.roscosmos.ru/)
+[![JAXA Badge](https://img.shields.io/badge/JAXA-Partner-blue.svg)](https://global.jaxa.jp/)
+[![ASI Badge](https://img.shields.io/badge/ASI-Partner-blue.svg)](https://www.asi.it/)
+[![UKSA Badge](https://img.shields.io/badge/UKSA-Partner-blue.svg)](https://www.gov.uk/government/organisations/uk-space-agency)
+[![CNES Badge](https://img.shields.io/badge/CNES-Partner-blue.svg)](https://cnes.fr/en)
+[![DLR Badge](https://img.shields.io/badge/DLR-Partner-blue.svg)](https://www.dlr.de/)
 
 # lunar-ecocycle
 A comprehensive repository for the Lunar EcoCycle project, featuring advanced algorithms, robotics designs, waste processing technologies, and resource utilization strategies aimed at creating a sustainable waste management system on the Moon. Collaborate on innovative solutions to recycle lunar waste and promote a self-sustaining lunar ecosystem.
