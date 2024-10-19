@@ -1,15 +1,18 @@
 # API Reference for the Lunar EcoCycle Project
 
 ## Overview
+
 This document provides details about the API endpoints available in the Lunar EcoCycle system.
 
 ## Base URL
+
 http://localhost:5000/api
 
 
 ## Endpoints
 
 ### 1. Waste Sorting API
+
 - **Endpoint**: `/api/waste-sort`
 - **Method**: `POST`
 - **Description**: Sorts the given waste type.
@@ -138,3 +141,6 @@ http://localhost:5000/api
 2.  "status": "success",
 3.  "energy_distributed": true
 4. }
+```
+
+This documentation structure provides a comprehensive overview of the Lunar EcoCycle project, covering system architecture, user manuals, and API references.
