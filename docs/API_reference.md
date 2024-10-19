@@ -23,7 +23,7 @@ http://localhost:5000/api
 
  - Response:
 
-  ```
+  ```json
  1. {
  2. "status": "success",
  3. "sorted_type": "sorted_plastic"
@@ -37,7 +37,7 @@ http://localhost:5000/api
 - Description: Extracts a specified resource.
 - Request Body:
 
-```
+```json
 1. {
 2.  "resource": "water"
 3. }
@@ -45,9 +45,32 @@ http://localhost:5000/api
 
 - Response:
 
-```
+```json
 1. {
 2.  "status": "success",
 3.  "extracted": true
 4. }
 ```
+
+# 3. Bioregenerative System API
+
+- Endpoint: /api/grow-plant
+- Method: POST
+- Description: Initiates the growth of a specified plant.
+- Request Body:
+
+```json
+1. {
+2.  "plant_type": "tomato"
+3. }
+```
+
+- **Response**:
+
+```json
+1. {
+2.  "status": "success",
+3.  "growth_status": "growing"
+4. }
+```
+
