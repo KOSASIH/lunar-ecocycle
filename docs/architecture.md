@@ -34,7 +34,7 @@ The Lunar EcoCycle system is designed as a modular architecture to facilitate sc
 
 ## Diagram
 
-- Project [Diagram](docs/Lunar_EcoCycle.jpeg)
+- Project [Diagram](Lunar_EcoCycle.jpeg)
 
 ## Conclusion
 This modular architecture allows for efficient operation and future enhancements of the Lunar EcoCycle system.
