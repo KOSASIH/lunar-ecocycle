@@ -74,3 +74,47 @@ http://localhost:5000/api
 4. }
 ```
 
+# 4. 3D Printing Module API
+
+- Endpoint: /api/print-object
+- Method: POST
+- Description: Prints a specified object.
+- Request Body:
+
+```json
+1. {
+2.  "object_type": "component"
+3. }
+```
+
+- Response:
+
+```json
+1. {
+2.  "status": "success",
+3.  "printed": true
+4. }
+```
+
+# 5. Robotics System API
+
+- Endpoint: /api/execute-task
+- Method: POST
+- Description: Executes a specified task.
+- Request Body:
+
+```json
+1. {
+2.  "task": "maintenance"
+3. }
+```
+
+- Response:
+
+```json
+1. {
+2.  "status": "success",
+3.  "task_status": "completed"
+4. }
+```
+
