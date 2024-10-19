@@ -118,3 +118,23 @@ http://localhost:5000/api
 4. }
 ```
 
+# 6. Energy Management System API
+
+- Endpoint: /api/distribute-energy
+- Method: POST
+- Description: Distributes energy to specified components.
+- Request Body:
+
+```json
+1. {
+2.  "components": ["Waste Sorting Module", "ISRU Module"]
+3. }
+```
+
+- Response:
+
+```json
+1. {
+2.  "status": "success",
+3.  "energy_distributed": true
+4. }
